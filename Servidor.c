@@ -92,7 +92,7 @@ int main()
 	}
     //Registro
 	
-	printf("¿Quieres registrarte? (s/n): ");
+	printf("Â¿Quieres registrarte? (s/n): ");
 	char opcion;
 	scanf(" %c", &opcion); 
 	
